@@ -1,0 +1,18 @@
+{
+    "name": "san-diego-top-spots",
+    "version": "0.1.0",
+    "scripts": {
+        "test": "mocha --exit"
+    },
+    "dependencies": {
+        "chai": "^4.1.2",
+        "express": "^4.16.3",
+        "jquery": "^3.3.1",
+        "lodash": "^4.17.10",
+        "mocha": "^5.2.0",
+        "morgan": "^1.9.0",
+        "nightmare": "^3.0.1",
+        "now": "^11.2.1",
+        "static": "^2.0.0"
+    }
+}
